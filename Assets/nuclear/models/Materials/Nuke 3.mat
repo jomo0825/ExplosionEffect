@@ -99,7 +99,7 @@ Material:
     - _ZWrite: 1
     - _blur: 0
     - _emmis_exp: 1.18
-    - _tesselation_factor: 26.4
+    - _tesselation_factor: 16.4
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
